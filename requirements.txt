@@ -1,0 +1,13 @@
+certifi==2021.10.8
+joblib==1.1.0
+numpy==1.22.3
+opencv-contrib-python==4.5.5.64
+Pillow==9.0.1
+rethinkdb==2.4.8
+scikit-learn==1.0.2
+scipy==1.8.0
+six==1.16.0
+sklearn==0.0
+thinker==1.1.1
+threadpoolctl==3.1.0
+wincertstore==0.2
